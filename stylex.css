@@ -1,0 +1,28 @@
+.fof{
+opacity:.6;
+height:100px;
+width:100px;
+float:right;
+border:1px solid black;
+
+
+}
+ .one:hover{
+
+opacity:1;
+height:130px;
+width:130px;
+
+}
+ .two:hover{
+opacity:1;
+height:130px;
+width:130px;
+
+}
+ .three:hover{
+opacity:1;
+height:130px;
+width:130px;
+
+}
